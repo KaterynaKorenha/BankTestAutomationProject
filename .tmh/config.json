@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/bsnttnckfpiq/DefaultTenant/testmanager_",
+  "defaultProject": {
+    "id": "f47e068d-7700-0000-23ab-0b4301620b92",
+    "name": "BankTestAutomationProject",
+    "key": "BTAP"
+  }
+}
